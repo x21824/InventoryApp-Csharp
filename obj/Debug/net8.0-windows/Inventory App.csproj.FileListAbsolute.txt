@@ -1,0 +1,20 @@
+C:\Users\PC\Desktop\vs\App\Inventory App\bin\Debug\net8.0-windows\Inventory App.exe
+C:\Users\PC\Desktop\vs\App\Inventory App\bin\Debug\net8.0-windows\Inventory App.deps.json
+C:\Users\PC\Desktop\vs\App\Inventory App\bin\Debug\net8.0-windows\Inventory App.runtimeconfig.json
+C:\Users\PC\Desktop\vs\App\Inventory App\bin\Debug\net8.0-windows\Inventory App.dll
+C:\Users\PC\Desktop\vs\App\Inventory App\bin\Debug\net8.0-windows\Inventory App.pdb
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\Inventory App.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\Inventory App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\Inventory App.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\Inventory App.AssemblyInfo.cs
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\Inventory App.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\Inventory App.dll
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\refint\Inventory App.dll
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\Inventory App.pdb
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\Inventory App.genruntimeconfig.cache
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\ref\Inventory App.dll
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\IA.ModifyProduct.resources
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\IA.ModifyPart.resources
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\IA.MainForm.resources
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\IA.AddPart.resources
+C:\Users\PC\Desktop\vs\App\Inventory App\obj\Debug\net8.0-windows\IA.AddProduct.resources
